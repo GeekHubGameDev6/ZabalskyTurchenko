@@ -1,8 +1,12 @@
 # ZabalskyTurchenko
 Game: "The Hope"
+
 Setting: Темне фентезі
+
 Genre: roguelike-like
+
 Gameplay Mechanics:
+
 - 3D /*Але це не точно*/
 - Вид від першої особи
 - Кожен раз при старті нової гри рівні генеруються випадковим чином
